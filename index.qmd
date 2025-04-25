@@ -1,7 +1,9 @@
 ---
 title: "Lab 9 Website"
+author: "Tracy Wang"
 ---
 
 This is a Quarto website for Lab 9.
+This is a template for making a website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

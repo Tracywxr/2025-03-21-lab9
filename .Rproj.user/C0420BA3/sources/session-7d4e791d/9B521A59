@@ -3,7 +3,7 @@
     "path": "~/git/DSCI310/Lab/2025-03-21-lab9/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "1875924437",
+    "hash": "2502994992",
     "contents": "",
     "dirty": false,
     "created": 1745556358782.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,35",
+        "cursorPosition": "2,20",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1745556383,
+    "lastKnownWriteTime": 1745557713,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1745556383786,
+    "last_content_update": 1745557713982,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -5,16 +5,16 @@ project:
 website:
   title: "Lab 9 Website"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+   left:
+    - href: index.qmd
+      text: Home
+    - href: about.qmd
+      text: About
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
     toc: true
 
